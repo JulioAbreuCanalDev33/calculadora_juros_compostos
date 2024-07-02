@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Juros Compostos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Calculadora de Juros Compostos</h1>
+        <label for="principal">Principal (R$):</label>
+        <input type="number" id="principal" step="0.01">
+
+        <label for="mensal">Depósito Mensal (R$):</label>
+        <input type="number" id="mensal" step="0.01">
+
+        <label for="taxa">Taxa de Juros (% ao ano):</label>
+        <input type="number" id="taxa" step="0.01">
+
+        <label for="tempo">Tempo (anos):</label>
+        <input type="number" id="tempo">
+
+        <label for="n">Número de vezes que os juros são compostos por ano:</label>
+        <input type="number" id="n">
+
+        <button onclick="calcularJuros()">Calcular</button>
+
+        <div id="resultado"></div><br>
+        
+        <!-- Logo marca --> 
+      <div class="logo">        
+        <img style=" width:75px;" src="logo1.jpg">
+      </div>
+        
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
