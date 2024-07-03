@@ -1,40 +1,89 @@
-# ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+# ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) Calculadora de Juros Compostos
 
-📈 Calculadora de Juros Compostos
+![GitHub repo size](https://img.shields.io/github/repo-size/JulioAbreuCanalDev33/calculadora_juros_compostos)
+![GitHub stars](https://img.shields.io/github/stars/JulioAbreuCanalDev33/calculadora_juros_compostos?style=social)
+![GitHub forks](https://img.shields.io/github/forks/JulioAbreuCanalDev33/calculadora_juros_compostos?style=social)
+![GitHub issues](https://img.shields.io/github/issues/JulioAbreuCanalDev33/calculadora_juros_compostos)
+![GitHub license](https://img.shields.io/github/license/JulioAbreuCanalDev33/calculadora_juros_compostos)
 
-Este projeto é uma aplicação em JavaScript com interface gráfica para calcular juros compostos, permitindo também a inserção de depósitos mensais no cálculo.FuncionalidadesCalcular juros compostos com base no valor inicial, taxa de juros e período.
+Projeto de uma calculadora de juros compostos desenvolvida em JavaScript com interface gráfica. Permite inserir dados e calcular o montante final.
 
-Inclusão de depósitos mensais no cálculo dos juros compostos.
+## 📋 Índice
 
-Interface gráfica intuitiva para facilitar a inserção dos dados e visualização dos resultados.
+- [Sobre](#sobre)
+- [Funcionalidades](#funcionalidades)
+- [Instalação](#instalação)
+- [Uso](#uso)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
+- [Autores](#autores)
+- [Agradecimentos](#agradecimentos)
 
-🛠️ Tecnologias Utilizadas
+## 📖 Sobre
 
-HTML
-CSS
-JAVASCRIPT 
-🚀 
+Esta calculadora de juros compostos é uma aplicação desenvolvida em JavaScript que permite aos usuários inserir valores para calcular o montante final após um período determinado. A interface gráfica torna o uso intuitivo e amigável.
 
-Como UsarClone o repositório para sua máquina local:
-git clone https://github.com/JulioAbreuCanalDev33/calculadora_juros_compostos.git
+## 🌟 Funcionalidades
 
-Navegue até o diretório do projeto:
-cd calculadora_juros_compostos
+- Inserir valor principal (R$)
+- Inserir depósito mensal (R$)
+- Inserir taxa de juros (% ao ano)
+- Inserir tempo (anos)
+- Inserir número de vezes que o juros são compostos por ano
+- Calcular e exibir o montante final
+- Exibir os resultados como:
+  - Montante: R$ ...
+  - Juros: R$ ...
 
-Abra o arquivo index.
+## 🛠️ Instalação
 
-html no seu navegador preferido para utilizar a calculadora.
+Siga as instruções abaixo para instalar e configurar o projeto localmente:
 
-📚 Exemplo de UsoInsira o valor inicial, a taxa de juros, o período (em meses) e o valor dos depósitos mensais. Clique em "Calcular" para ver o montante acumulado ao final do período.
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/JulioAbreuCanalDev33/calculadora_juros_compostos.git
+    ```
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd calculadora_juros_compostos
+    ```
+3. Instale as dependências:
+    ```bash
+    npm install
+    ```
 
-🤝 Contribuição
+## 🚀 Uso
 
-Se você quiser contribuir com este projeto, siga estas etapas:
+Para iniciar a aplicação, utilize o seguinte comando:
 
-Faça um fork do projeto.
-Crie uma branch para sua feature (git checkout -b feature/AmazingFeature).
-Commit suas mudanças (git commit -m 'Add some AmazingFeature').
-Faça um push para a branch (git push origin feature/AmazingFeature).
-Abra um Pull Request.
+```bash
+npm start
 
-📄 LicençaDistribuído sob a licença MIT. Veja LICENSE para mais informações.
+Você pode interagir com a calculadora através da interface web, onde poderá inserir os dados e obter o cálculo do montante final.
+Os resultados serão exibidos como:
+
+Montante: R$ ...
+Juros: R$ ...🤝
+
+Contribuição
+Sinta-se à vontade para contribuir com este projeto.
+
+Siga os passos abaixo para contribuir:
+Faça um fork do projeto
+Crie um branch para sua funcionalidade (git checkout -b nova-funcionalidade)
+Commit suas mudanças (git commit -m 'Adiciona nova funcionalidade')
+Faça um push para o branch (git push origin nova-funcionalidade)
+Abra um Pull Request
+
+📄 LicençaEste projeto está licenciado sob a licença MIT
+
+- veja o arquivo LICENSE para mais detalhes.
+
+👥 AutoresJulio Abreu
+
+- Trabalho inicial
+- JulioAbreuCanalDev33Veja também a lista de contribuidores que participaram deste projeto.
+
+🎉 Agradecimentos
+
+Inspirações, agradecimentos especiais, e qualquer outro reconhecimento.
