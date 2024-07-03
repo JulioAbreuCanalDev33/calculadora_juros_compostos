@@ -75,7 +75,9 @@ Commit suas mudanças (git commit -m 'Adiciona nova funcionalidade')
 Faça um push para o branch (git push origin nova-funcionalidade)
 Abra um Pull Request
 
-📄 LicençaEste projeto está licenciado sob a licença MIT
+📄 Licença
+
+Este projeto está licenciado sob a licença MIT
 
 - veja o arquivo LICENSE para mais detalhes.
 
