@@ -81,10 +81,14 @@ Este projeto está licenciado sob a licença MIT
 
 - veja o arquivo LICENSE para mais detalhes.
 
-👥 AutoresJulio Abreu
+👥 Autores
+
+Julio Abreu
 
 - Trabalho inicial
-- JulioAbreuCanalDev33Veja também a lista de contribuidores que participaram deste projeto.
+- JulioAbreuCanalDev33
+
+Veja também a lista de contribuidores que participaram deste projeto.
 
 🎉 Agradecimentos
 
